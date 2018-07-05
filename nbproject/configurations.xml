@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <df root="." name="0">
+      <in>analysis.F95</in>
+      <in>arrays.F95</in>
+      <in>bootstrap.F95</in>
+      <in>categories.F95</in>
+      <in>cca.F95</in>
+      <in>climate.F95</in>
+      <in>cpt.F95</in>
+      <in>cpt_actions.F95</in>
+      <in>cpt_file.F95</in>
+      <in>cpt_input.F95</in>
+      <in>cpt_interface.F95</in>
+      <in>cpt_lapack.F95</in>
+      <in>cpt_options.F95</in>
+      <in>cpt_output.F95</in>
+      <in>cpt_view.F95</in>
+      <in>data_cpt_constants.F95</in>
+      <in>data_gui_constants.F95</in>
+      <in>data_io_constants.F95</in>
+      <in>data_iridl.F95</in>
+      <in>data_numbers.F95</in>
+      <in>data_text.F95</in>
+      <in>data_time_constants.F95</in>
+      <in>data_version.F95</in>
+      <in>distribs.F95</in>
+      <in>downloads.F95</in>
+      <in>eofs.F95</in>
+      <in>errors.F95</in>
+      <in>fields.F95</in>
+      <in>forecast.F95</in>
+      <in>gcm.F95</in>
+      <in>get_input_file.F95</in>
+      <in>graphics.F95</in>
+      <in>gui.F95</in>
+      <in>help.F95</in>
+      <in>iofiles.F95</in>
+      <in>labels.F95</in>
+      <in>maps.F95</in>
+      <in>markers.F95</in>
+      <in>maths.F95</in>
+      <in>missing.F95</in>
+      <in>pcr.F95</in>
+      <in>pcs.F95</in>
+      <in>pfv.F95</in>
+      <in>plotting.F95</in>
+      <in>progress_meter.F95</in>
+      <in>projects.F95</in>
+      <in>scatter.F95</in>
+      <in>scores.F95</in>
+      <in>screen.F95</in>
+      <in>season.F95</in>
+      <in>settings.F95</in>
+      <in>space.F95</in>
+      <in>tables.F95</in>
+      <in>time.F95</in>
+      <in>user.F95</in>
+      <in>validate.F95</in>
+      <in>verif.F95</in>
+      <in>windows_gui.F95</in>
+    </df>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+      <itemPath>nbproject/private/launcher.properties</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceFolderFilter>^(nbproject)$</sourceFolderFilter>
+  <sourceRootList>
+    <Elem>.</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Default" type="0">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>false</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <codeAssistance>
+      </codeAssistance>
+      <makefileType>
+        <makeTool>
+          <buildCommandWorkingDir>.</buildCommandWorkingDir>
+          <buildCommand>${MAKE} -f Makefile</buildCommand>
+          <cleanCommand>${MAKE} -f Makefile clean</cleanCommand>
+          <executablePath>CPT.x</executablePath>
+        </makeTool>
+        <preBuild>
+          <preBuildCommandWorkingDir>.</preBuildCommandWorkingDir>
+          <preBuildCommand></preBuildCommand>
+        </preBuild>
+      </makefileType>
+      <item path="analysis.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="arrays.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="bootstrap.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="categories.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="cca.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="climate.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="cpt.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="cpt_actions.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="cpt_file.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="cpt_input.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="cpt_interface.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="cpt_lapack.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="cpt_options.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="cpt_output.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="cpt_view.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="data_cpt_constants.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="data_gui_constants.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="data_io_constants.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="data_iridl.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="data_numbers.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="data_text.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="data_time_constants.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="data_version.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="distribs.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="downloads.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="eofs.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="errors.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="fields.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="forecast.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="gcm.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="get_input_file.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="graphics.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="gui.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="help.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="iofiles.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="labels.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="maps.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="markers.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="maths.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="missing.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="pcr.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="pcs.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="pfv.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="plotting.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="progress_meter.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="projects.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="scatter.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="scores.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="screen.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="season.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="settings.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="space.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="tables.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="time.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="user.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="validate.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="verif.F95" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="windows_gui.F95" ex="false" tool="2" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
