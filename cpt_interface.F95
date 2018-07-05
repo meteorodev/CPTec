@@ -115,7 +115,9 @@ Contains
   Call print_text (' ')
   Call print_text ('Evaluating seasonal climate predictability', &
        lcentre=.true.)
-  Call print_text ('Modificacion Ecuador !!!', &
+  Call print_text ('Modificacion Ecuador', &
+       lcentre=.true.)
+  Call print_text ('estado: test, basado en la version 15.7', &
        lcentre=.true.)
   Call print_text (' ')
 #if GUI == 1
